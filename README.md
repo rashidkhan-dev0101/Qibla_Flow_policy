@@ -31,8 +31,9 @@ These services may collect:
 - Usage data
 - Advertising identifiers
 
-## 6. Children’s Privacy
-This app is intended for a general audience and does not knowingly collect personal data from children under the age of 13. Since no data is collected, your child's privacy is fully protected on the device.
+## 6. Age Restriction
+Qibla Flow is intended for users who are 18 years of age or older.
+The app is not directed toward children under 18, and we do not knowingly collect personal information from minors.
 
 ## 7. Changes to This Policy
 We may update this Privacy Policy in the future. Any changes will be posted on this page.
@@ -44,4 +45,4 @@ Email: iarsoftofficial@gmail.com
 
 ---
 
-**Last updated:** April 2026
+**Last updated:** May 2026
